@@ -1,8 +1,9 @@
 # To-Do-list
 
-1. Make sure React.js in installed in your local system.
-2. Download/clone the repo and access it through cmd.
+1. Make sure React.js is installed in your local system.
+2. Download/clone the repo, and access the path using cmd.
 3. Command to start the React-project: "npm start"
+
 
    Below are some useful snapshots:
 
