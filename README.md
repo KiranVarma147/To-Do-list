@@ -4,6 +4,7 @@
 2. Download/clone the repo, and access the path using cmd.
 3. Command to start the React-project: "npm start"
 
+Note: Uploaded the dir wihtout node_modules. However, when the project starts running, the dependencies are installed.
 
    Below are some useful snapshots:
 
